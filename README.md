@@ -11,3 +11,9 @@ Playground to test/learn AI models, prompts and APIs
 - [¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO](https://youtu.be/wnHczxwukYY)
 - [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
 - [5 Patrones de Arquitectura para Agentes de IA](https://youtu.be/oR0GqQ8wMfk)
+
+### Projects
+- https://github.com/microsoft/mcp-for-beginners
+
+### Tools
+- https://opencode.ai/
