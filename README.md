@@ -10,4 +10,4 @@ Playground to test/learn AI models, prompts and APIs
 - [🔥 ASÍ se crea un MCP - CON ‪@Achetronic‬](https://youtu.be/tjGopRhYa4I)
 - [¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO](https://youtu.be/wnHczxwukYY)
 - [The Ultimate MCP Crash Course - Build From Scratch](https://youtu.be/ZoZxQwp1PiM)
-- 
+- [5 Patrones de Arquitectura para Agentes de IA](https://youtu.be/oR0GqQ8wMfk)
