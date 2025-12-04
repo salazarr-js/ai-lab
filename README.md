@@ -19,3 +19,5 @@ Playground to test/learn AI models, prompts and APIs
 
 ### Tools
 - https://opencode.ai/
+
+[link](vscode://file/website/src/components/Button.vue)
