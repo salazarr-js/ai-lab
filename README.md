@@ -13,6 +13,7 @@ Playground to test/learn AI models, prompts and APIs
 - [5 Patrones de Arquitectura para Agentes de IA](https://youtu.be/oR0GqQ8wMfk)
 - [Let's Learn MCP: TypeScript (Español)](https://www.youtube.com/live/erqdtkd1GNg)
 - [¡Así te Ayuda GitHub Copilot a programar MÁS RÁPIDO en VS Code!](https://youtu.be/XpQ7uUXuPHg)
+- [How to Master AI-Driven Development in Cursor (Step-by-Step Workflow)](https://youtu.be/nO9ly_ZDiUE)
 
 ### Projects
 - https://github.com/microsoft/mcp-for-beginners
