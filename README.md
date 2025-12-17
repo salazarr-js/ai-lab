@@ -19,6 +19,9 @@ Playground to test/learn AI models, prompts and APIs
 - [How to make vibe coding not suck…](https://youtu.be/PLKrSVuT-Dg)
 - [OpenCode: The ULTIMATE AI Coding Agent (By SST)](https://youtu.be/SIhToEaIsjQ)
 - [Domina GitHub Copilot en VS Code: Chat, Agents, Contextos y más](https://youtu.be/HfKAThTqkJ0)
+- [Mejora x10 tus Resultados con Claude Code haciendo esto](https://youtu.be/p0oyBK8U0sk)
+- [Claude Code just Built me an AI Agent Team (Claude Code + Skills + MCP)](https://youtu.be/0J2_YGuNrDo)
+- [Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic](https://youtu.be/CEvIs9y1uog)
 
 ### Courses
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
