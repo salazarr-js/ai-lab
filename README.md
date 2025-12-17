@@ -4,7 +4,7 @@ Playground to test/learn AI models, prompts and APIs
 
 ## Resources
 
-### Courses
+### Videos
 - [Curso COMPLETO de DESARROLLO con IA con Certificado Gratis](https://youtu.be/3spCFnMSGIY)
 - [¡No uses la IA así! El error que todos cometen + Regalito 🎁](https://www.youtube.com/watch?v=-hVrVbfkEYE&t=11s)
 - [🔥 ASÍ se crea un MCP - CON ‪@Achetronic‬](https://youtu.be/tjGopRhYa4I)
@@ -17,6 +17,8 @@ Playground to test/learn AI models, prompts and APIs
 - [Estuve más de 3 meses utilizando CLAUDE CODE y ESTO es lo que Aprendí](https://youtu.be/gT8qG9nfKSs)
 - [Docker Just Fixed 90% of AI Coding By Releasing This](https://youtu.be/ZOutBmRai2M)
 - [How to make vibe coding not suck…](https://youtu.be/PLKrSVuT-Dg)
+- [OpenCode: The ULTIMATE AI Coding Agent (By SST)](https://youtu.be/SIhToEaIsjQ)
+- [Domina GitHub Copilot en VS Code: Chat, Agents, Contextos y más](https://youtu.be/HfKAThTqkJ0)
 
 ### Courses
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
