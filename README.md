@@ -33,6 +33,7 @@ Playground to test/learn AI models, prompts and APIs
 
 ### Projects
 - https://github.com/microsoft/mcp-for-beginners
+- https://github.com/github/spec-kit
 
 ### Tools
 - https://opencode.ai/
