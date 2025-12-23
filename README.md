@@ -30,10 +30,12 @@ Playground to test/learn AI models, prompts and APIs
 
 ### Posts
 - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
+- [Spec-Driven Development: Designing Before You Code (Again)](https://medium.com/@dave-patten/spec-driven-development-designing-before-you-code-again-21023ac91180)
 
 ### Projects
 - https://github.com/microsoft/mcp-for-beginners
 - https://github.com/github/spec-kit
+  - [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 
 ### Tools
 - https://opencode.ai/
