@@ -36,6 +36,7 @@ Playground to test/learn AI models, prompts and APIs
 - https://github.com/microsoft/mcp-for-beginners
 - https://github.com/github/spec-kit
   - [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+- https://github.com/Fission-AI/OpenSpec/
 
 ### Tools
 - https://opencode.ai/
