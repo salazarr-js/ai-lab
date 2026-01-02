@@ -44,4 +44,7 @@ Playground to test/learn AI models, prompts and APIs
 ### YouTube Channels
 - [AI LABS](https://www.youtube.com/@AILABS-393)
 
+### 3D
+- https://hunyuan.tencent.com/
+
   
