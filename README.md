@@ -23,6 +23,7 @@ Playground to test/learn AI models, prompts and APIs
 - [Claude Code just Built me an AI Agent Team (Claude Code + Skills + MCP)](https://youtu.be/0J2_YGuNrDo)
 - [Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic](https://youtu.be/CEvIs9y1uog)
 - [Spec Kit: How to Build Production-Ready Apps with AI Agents](https://youtu.be/8jtIXRyGMQU)
+- [The Complete Claude Code Workflow (to Build Anything)](https://youtu.be/dk97zcYaq_o)
 
 ### Courses
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
@@ -46,5 +47,3 @@ Playground to test/learn AI models, prompts and APIs
 
 ### 3D
 - https://hunyuan.tencent.com/
-
-  
