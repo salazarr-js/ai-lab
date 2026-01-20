@@ -24,6 +24,7 @@ Playground to test/learn AI models, prompts and APIs
 - [Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic](https://youtu.be/CEvIs9y1uog)
 - [Spec Kit: How to Build Production-Ready Apps with AI Agents](https://youtu.be/8jtIXRyGMQU)
 - [The Complete Claude Code Workflow (to Build Anything)](https://youtu.be/dk97zcYaq_o)
+- [Here's How I Use Agent Skills in Claude Code for Game Dev (Full Tutorial)](https://youtu.be/ak0QkJjwK9U)
 
 ### Courses
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
