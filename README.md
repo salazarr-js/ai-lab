@@ -29,6 +29,7 @@ Playground to test/learn AI models, prompts and APIs
 ### Courses
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners)
 - [Anthropic Courses](https://anthropic.skilljar.com/)
+- https://themodernsoftware.dev/
 
 ### Posts
 - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
